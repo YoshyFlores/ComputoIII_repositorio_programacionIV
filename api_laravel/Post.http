@@ -1,0 +1,12 @@
+### Get All Post
+GET http://127.0.0.1:8000/api/v1/posts
+
+
+### Get only one Post
+GET http://127.0.0.1:8000/api/v1/posts/1
+
+###
+GET http://127.0.0.1:8000/api/v2/posts/1
+
+###
+GET http://127.0.0.1:8000/api/v2/posts
